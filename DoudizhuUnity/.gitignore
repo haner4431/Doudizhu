@@ -1,0 +1,7 @@
+/Library
+/Temp
+**/*.log
+**/*.csproj
+/obj
+/UserSettings
+/Library/ArtifactDB
